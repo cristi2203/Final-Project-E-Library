@@ -1,0 +1,30 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  color: black;
+  align-items: center;
+  border: 1px solid black;
+
+  height: 100px;
+}
+.Titlu {
+  text-align: center;
+  width: 33%;
+  height: auto;
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Left-Menu {
+  border: 1px solid black;
+  width: 33%;
+  height: 100px;
+}
+.right-Menu {
+  border: 1px solid black;
+  // margin-left: 300px;
+  width: 33%;
+  height: 100px;
+}
